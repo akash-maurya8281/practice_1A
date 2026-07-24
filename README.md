@@ -5,3 +5,4 @@ Hello
 
 
 what is this? How much is this Price.
+git add .clear
